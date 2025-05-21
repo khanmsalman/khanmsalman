@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khanmsalman&label=Profile%20views&color=0e75b6&style=flat" alt="khanmsalman" /> </p>
 
-- 🔭 I’m currently working on **PaperGenerator project**
+- 🔭 I’m currently working on **Computerized Maintenance Management System**
 
 - 💬 Ask me about **JavaScript, React js, Nextjs, tailwindcss, firebase , web tech etc**
 
