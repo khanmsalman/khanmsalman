@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **salmankhan775543@gmail.com**
 
-- ⚡ Fun fact **love cricket and fun**
+- ⚡ Fun fact **love cricket, Reading and fun**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
